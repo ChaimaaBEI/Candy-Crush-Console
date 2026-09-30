@@ -2,7 +2,7 @@
 
 A Candy Crush–style match-3 game running in the Windows console, written in **C**.
 
-![Game screenshot](screenshot.png)
+   <img src="screenshot.png" alt="Game screenshot" width="550">
 
 ## ✨ Features
 - 20 × 20 game grid with 5 candy colors displayed using **ANSI colors**
