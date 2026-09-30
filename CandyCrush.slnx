@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CandyCrush.vcxproj" Id="b54d9eb3-5111-41ed-9d05-97fe2cc2ad02" />
+</Solution>
